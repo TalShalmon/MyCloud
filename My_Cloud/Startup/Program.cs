@@ -6,7 +6,7 @@ namespace My_Cloud
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Cloud from scratch");
         }
     }
 }
